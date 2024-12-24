@@ -1,4 +1,4 @@
-# LICLIB Challenger
+# LRCLIB Challenger
 
 This program uses WGPU to execute a compute shader capable of cracking the LRCLIB challenge within seconds.
 
